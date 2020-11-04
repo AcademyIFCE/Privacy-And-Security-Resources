@@ -16,8 +16,6 @@
 
 [Insecure & Unintuitive: How We Need to Fix the UX of Security](https://www.uie.com/wp-assets/transcripts/insecure_and_unintuitive_the_ux_of_security.html) 
 
-
-
 #### Videos
 
 [https://youtu.be/kEBIEnV5u_o](https://youtu.be/kEBIEnV5u_o) 
@@ -26,6 +24,9 @@
 
 
 ## Code 
+
+#### WWDC Awesome Videos on Privacy and Security
+https://developer.apple.com/videos/frameworks/privacy-and-security
 
 #### Apple App Security Pages
 
@@ -87,6 +88,9 @@
 [Pokemon Go Jailbreak bypass 2020](https://www.youtube.com/watch?v=BvHoc3gS28E)
 
 [iOS: Patching security features of mobile app with Ghidra – Basement](https://mezdanak.de/2019/04/17/ios-patching-security-features-of-mobile-app-with-ghidra/)
+
+#### MyMoney App testflight if you want to intercept the requests
+https://testflight.apple.com/join/4sF4ued4
 
 
 #### How to Protect Data in the Client-side
