@@ -1,5 +1,8 @@
 # Privacy and Security Resources
 
+## WWDC Awesome Videos on Privacy and Security
+https://developer.apple.com/videos/frameworks/privacy-and-security
+
 ## Design
 
 [Security vs. Design: Standing at Odds?](https://uxmag.com/articles/security-vs-design-standing-at-odds) 
@@ -24,9 +27,6 @@
 
 
 ## Code 
-
-#### WWDC Awesome Videos on Privacy and Security
-https://developer.apple.com/videos/frameworks/privacy-and-security
 
 #### Apple App Security Pages
 
