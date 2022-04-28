@@ -30,16 +30,15 @@ https://developer.apple.com/videos/frameworks/privacy-and-security
 
 #### Apple App Security Pages
 
-[Security | Apple Developer Documentation](https://developer.apple.com/documentation/security?language=swift)
-
 [Apple App Security Overview](https://support.apple.com/guide/security/app-security-overview-sec35dd877d0/1/web/1)
 
 [Encryption and Data Protection overview](https://support.apple.com/pt-br/guide/security/sece3bee0835/1/web/1) 
 
 [Preventing Insecure Network Connections](https://developer.apple.com/documentation/security/preventing_insecure_network_connections)
 
+[Security | Apple Developer Documentation](https://developer.apple.com/documentation/security?language=swift)
 
-[Latest Apple Platform Security Guide](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf)
+[Apple Platform Security Guide](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf)
 
 [Privacy - Apple](https://www.apple.com/privacy/)
 
@@ -70,6 +69,7 @@ https://developer.apple.com/videos/frameworks/privacy-and-security
 
 
 #### CTFs and Attacks - Understand iOS Code vulnerability before Defending against them
+[Hack the Box Challenges](https://app.hackthebox.com/challenges)
 
 [Alexandr Fadeev - Alexander Fadeev’s Blog](https://fadeevab.com/author/fadeevab/)
 
